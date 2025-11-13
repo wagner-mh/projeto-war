@@ -41,7 +41,9 @@ gcc war.c -o war
 
 ## Estrutura do projeto
 
-$tree -a
+```shell
+$ tree -a
+```
 
 > O `.gitignore` deve incluir o executável e outros arquivos temporários, como:
 \```
