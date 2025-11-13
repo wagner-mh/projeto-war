@@ -23,8 +23,6 @@ O programa foi desenvolvido como projeto para a disciplina de [Estrutura de Dado
 
 ## Como compilar e executar (Linux)
 
-## Como compilar e executar (Linux)
-
 1. Abra o terminal na pasta do projeto.
 2. Compile o código com o GCC:
 \```bash
@@ -41,9 +39,10 @@ gcc war.c -o war
 
 ## Estrutura do projeto
 
-```shell
-$ tree -a
-```
+jogo-war/
+├── war.c       (Código fonte em C)
+├── README.md   (Este arquivo de instruções)
+└── .gitignore  (Arquivos a serem ignorados pelo Git)
 
 > O `.gitignore` deve incluir o executável e outros arquivos temporários, como:
 \```
