@@ -25,13 +25,13 @@ O programa foi desenvolvido como projeto para a disciplina de [Estrutura de Dado
 
 1. Abra o terminal na pasta do projeto.
 2. Compile o código com o GCC:
-\```
+```
 gcc war.c -o war
-\```
+```
 3. Execute o jogo:
-\```
+```
 ./war
-\```
+```
 
 > O arquivo `war` pode ser gerado após a compilação. Certifique-se de ter o GCC instalado.
 
@@ -39,20 +39,21 @@ gcc war.c -o war
 
 ## Estrutura do projeto
 
-\```
+```
 jogo-war/
 ├── war.c         # Código fonte em C
 ├── README.md     # Este arquivo de instruções
 └── .gitignore    # Arquivos a serem ignorados pelo Git
-\```
+```
 
 > O `.gitignore` deve incluir o executável e outros arquivos temporários, como:
-\```
+
+```
 war
 *.o
 *.out
 *~
-\```
+```
 
 ---
 
