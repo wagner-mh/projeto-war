@@ -33,7 +33,7 @@ gcc war.c -o war
 3. Execute o jogo:
 \```bash
 ./war
-\``
+\```
 
 > O arquivo `war` pode ser gerado após a compilação. Certifique-se de ter o GCC instalado.
 
