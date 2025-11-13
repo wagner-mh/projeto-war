@@ -1,4 +1,4 @@
-# Jogo WAR - Projeto da Disciplina
+# Jogo WAR - Projeto da Disciplina Estrutura de Dados
 
 ## Sobre
 Este é um jogo de WAR implementado em C.  
@@ -25,10 +25,13 @@ O programa foi desenvolvido como projeto para a disciplina de [Estrutura de Dado
 
 1. Abra o terminal na pasta do projeto.
 2. Compile o código com o GCC:
+
 ```
 gcc war.c -o war
 ```
+
 3. Execute o jogo:
+
 ```
 ./war
 ```
