@@ -1,0 +1,11 @@
+# Ignorar arquivos binários do Linux
+war
+
+# Ignorar arquivos compilados temporários
+*.o
+*.out
+*.exe
+
+# Ignorar arquivos de backup
+*~
+
