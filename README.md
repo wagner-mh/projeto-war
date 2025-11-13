@@ -40,9 +40,12 @@ gcc war.c -o war
 ## Estrutura do projeto
 
 jogo-war/
-├── war.c       (Código fonte em C)
-├── README.md   (Este arquivo de instruções)
-└── .gitignore  (Arquivos a serem ignorados pelo Git)
+.
+├── .gitignore
+├── README.md
+├── war        (Executável gerado após a compilação)
+└── war.c      (Código fonte em C)
+
 
 > O `.gitignore` deve incluir o executável e outros arquivos temporários, como:
 \```
